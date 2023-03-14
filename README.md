@@ -50,7 +50,7 @@ This project can be run with Docker.
 - Commit your changes as you work
   ```
   git add .
-  git commit -S -m "message"
+  git commit -S -m "message"  
   ```
   - [info about verified commits](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification)
 
